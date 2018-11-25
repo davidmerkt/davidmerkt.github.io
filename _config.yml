@@ -1,1 +1,19 @@
+title: David Merkt
+description: Tech enthusiast. Outdoor enthusiast. Life enthusiast.
+show_downloads: false
+google_analytics:
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
+exclude: 
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
+  - .git
+  - .gitignore
+  - .gitattributes
