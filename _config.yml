@@ -3,6 +3,8 @@ description: Tech enthusiast. Outdoor enthusiast. Life enthusiast.
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+webmaster_verifications:
+  google: 4BOqboFkkD7uED-_w8gaql8tCDJMtiG1yhRYWt_xG6c
 plugins:
   - jekyll-sitemap
 exclude: 

@@ -34,6 +34,7 @@ Connecticut Blue-Blazed Trail Race Series
 : Webpage for the Blue-Blazed Trail Race Series, a running race series 
   consisting of various trail races that take place on the Blue-Blazed hiking 
   trail network in Connecticut.
+: [https://blueblazedtrailrunningseries.org/](https://blueblazedtrailrunningseries.org/){: target="_blank"}
 
 ## GitHub
 
